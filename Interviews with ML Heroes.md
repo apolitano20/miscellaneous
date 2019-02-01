@@ -4,7 +4,7 @@
 ---
 
 <h1 id="interviews-with-ml-heroes">Interviews with ML Heroes</h1>
-<p>A collection interviews conducted by <a href="https://hackernoon.com/@init_27">Sanyam Bhutani</a> with machine learning practitioners, researchers and Kagglers.</p>
+<p>A collection of interviews conducted by <a href="https://hackernoon.com/@init_27">Sanyam Bhutani</a> with machine learning practitioners, researchers and Kagglers.</p>
 <ol>
 <li>
 <p><a href="https://hackernoon.com/dominic-monn-dl-practitioner-interview-1-ced61f4ac6"> Dominic Monn: DL Practitioner</a></p>
