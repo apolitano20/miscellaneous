@@ -4,7 +4,7 @@
 ---
 
 <h1 id="interviews-with-ml-heroes">Interviews with ML Heroes</h1>
-<p>A collection of interviews conducted by <a href="https://hackernoon.com/@init_27">Sanyam Bhutani</a> with machine learning practitioners, researchers and Kagglers.</p>
+<p>A collection interviews conducted by <a href="https://hackernoon.com/@init_27">Sanyam Bhutani</a> with machine learning practitioners, researchers and Kagglers.</p>
 <ol>
 <li>
 <p><a href="https://hackernoon.com/dominic-monn-dl-practitioner-interview-1-ced61f4ac6"> Dominic Monn: DL Practitioner</a></p>
@@ -59,6 +59,15 @@
 </li>
 <li>
 <p><a href="https://hackernoon.com/interview-with-deep-learning-freelance-consultant-and-blockchain-dev-mamy-andr%C3%A9-ratsimbazafy-f74db35443e1">Mamy André-Ratsimbazafy: Deep Learning freelance consultant and Blockchain dev</a></p>
+</li>
+<li>
+<p><a href="https://hackernoon.com/interview-with-twice-kaggle-grandmaster-and-data-scientist-at-h20-ai-sudalai-rajkumar-cd952ef0c522">Twice Kaggle GrandMaster and Data Scientist at H2O.ai: Sudalai Rajkumar</a></p>
+</li>
+<li>
+<p><a href="https://hackernoon.com/interview-with-radiologist-fast-ai-fellow-and-kaggle-expert-dr-alexandre-cadrin-chenevert-94145d446da8">fast.ai fellow and Kaggle expert: Dr. Alexandre Cadrin-Chenevert</a></p>
+</li>
+<li>
+<p><a href="https://hackernoon.com/interview-with-the-creator-of-deoldify-fast-ai-fellow-jason-antic-c0437670059b">Creator of DeOldify, fast.ai student: Jason Antic</a></p>
 </li>
 </ol>
 <blockquote>
