@@ -64,10 +64,10 @@
 <p><a href="https://hackernoon.com/interview-with-twice-kaggle-grandmaster-and-data-scientist-at-h20-ai-sudalai-rajkumar-cd952ef0c522">Twice Kaggle GrandMaster and Data Scientist at H2O.ai: Sudalai Rajkumar</a></p>
 </li>
 <li>
-<p><a href="https://hackernoon.com/interview-with-radiologist-fast-ai-fellow-and-kaggle-expert-dr-alexandre-cadrin-chenevert-94145d446da8">fast.ai fellow and Kaggle expert: Dr. Alexandre Cadrin-Chenevert</a></p>
+<p><a href="https://hackernoon.com/interview-with-radiologist-fast-ai-fellow-and-kaggle-expert-dr-alexandre-cadrin-chenevert-94145d446da8">Dr. Alexandre Cadrin-Chenevert - fast.ai fellow and Kaggle expert</a></p>
 </li>
 <li>
-<p><a href="https://hackernoon.com/interview-with-the-creator-of-deoldify-fast-ai-fellow-jason-antic-c0437670059b">Creator of DeOldify, fast.ai student: Jason Antic</a></p>
+<p><a href="https://hackernoon.com/interview-with-the-creator-of-deoldify-fast-ai-fellow-jason-antic-c0437670059b">Jason Antic - Creator of DeOldify and fast.ai student</a></p>
 </li>
 </ol>
 <blockquote>
