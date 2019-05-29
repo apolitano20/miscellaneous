@@ -69,7 +69,12 @@
 <li>
 <p><a href="https://hackernoon.com/interview-with-the-creator-of-deoldify-fast-ai-fellow-jason-antic-c0437670059b">Jason Antic - Creator of DeOldify and fast.ai student</a></p>
 </li>
+<li>
+<p><a href="https://hackernoon.com/interview-with-kaggle-grandmaster-lead-data-scientist-at-dbrain-artur-kunzin-28f516a91e3">Artur Kuzin - Kaggle Grandmaster, Head of Computer Vision at X5 Retail Group</a></p>
+</li>
+
 </ol>
+
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
