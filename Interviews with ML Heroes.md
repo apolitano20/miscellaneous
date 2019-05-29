@@ -72,10 +72,17 @@
 <li>
 <p><a href="https://hackernoon.com/interview-with-kaggle-grandmaster-lead-data-scientist-at-dbrain-artur-kunzin-28f516a91e3">Artur Kuzin - Kaggle Grandmaster, Head of Computer Vision at X5 Retail Group</a></p>
 </li>
+<li>
+<p><a href="https://hackernoon.com/interview-with-senior-research-scientist-at-the-us-naval-research-laboratory-dr-leslie-smith-a516ae631170">Leslie Smith - Senior Research Scientist at the United States Naval Research Laboratory</a></p>
+</li>
+<li>
+<p><a href="https://hackernoon.com/interview-with-kaggle-grandmaster-senior-cv-engineer-at-lyft-dr-vladimir-i-iglovikov-9938e1fc7c">Vladimir I. Iglovikov - Kaggle Grandmaster, Senior Computer Vision Engineer at Lyft</a></p>
+</li>
 
+<li>
+<p><a href="https://hackernoon.com/interview-with-kaggle-grandmaster-senior-cv-engineer-at-lyft-dr-vladimir-i-iglovikov-9938e1fc7c">Pavel Pleskov - Kaggle Grandmaster, Data Scientist at Point API (NLP startup)</a></p>
+</li>  
 </ol>
 
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+
 
