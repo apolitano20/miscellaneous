@@ -80,7 +80,7 @@
 </li>
 
 <li>
-<p><a href="https://hackernoon.com/interview-with-kaggle-grandmaster-senior-cv-engineer-at-lyft-dr-vladimir-i-iglovikov-9938e1fc7c">Pavel Pleskov - Kaggle Grandmaster, Data Scientist at Point API (NLP startup)</a></p>
+<p><a href="https://hackernoon.com/interview-with-kaggle-grandmaster-data-scientist-at-point-api-pavel-pleskov-cc8ca67de249">Pavel Pleskov - Kaggle Grandmaster, Data Scientist at Point API (NLP startup)</a></p>
 </li>  
 </ol>
 
